@@ -12,34 +12,34 @@ Quick Sort Algorithm:
 
 
 Bubble Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/4xNyLxPP/2-Bubble-Sort-Diagram.png)
 
 
 
 Merge Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/mks2QLhQ/3-Merge-Sort-Diagram.png)
 
 
 
 Insertion Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/sXFVrjYt/4-Insertion-Sort-Diagram.png)
 
 
 
 Selection Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/nhgx4FPC/5-Selection-Sort-Diagram.jpg)
 
 
 
 Heap Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+-
 
 
 
 Radix Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/Z5Z7X1vV/7-Radix-Sort-Diagram.png)
 
 
 
 Bucket Sort Algorithm:
-![alt text](https://i.postimg.cc/d0w9Q25m/1-Quick-Sort-Diagram.png)
+![alt text](https://i.postimg.cc/HWy6npQ6/8-Bucket-Sort-Diagram.png)
